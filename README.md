@@ -93,6 +93,4 @@ It helps understand how infrastructure automation, monitoring, logging, security
 
 ## Author
 
-**Abhishek Kumar**
 
-B.Tech - Computer Science and Engineering
