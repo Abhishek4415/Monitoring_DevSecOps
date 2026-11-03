@@ -1,5 +1,5 @@
 
-Lab 3: Monitoring, Logging & DevSecOps
+#Lab 3: Monitoring, Logging & DevSecOps
 Overview
 This lab demonstrates an automated, observable, and secure
 infrastructure workflow. It combines infrastructure provisioning and
